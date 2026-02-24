@@ -1,0 +1,28 @@
+div {
+    WIDTH: 400PX;
+    height: 400px;
+    background-image: url(photo_2026-02-14_17-00-25.jpg);
+    display: inline-block;
+    margin: 10px;
+    background-repeat: no-repeat;
+    color: azure;
+}
+
+.assign-1-shape-1 {
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.assign-1-shape-2 {
+    background-repeat: repeat-y;
+    background-position: right top;
+}
+
+.assign-1-shape-3 {
+    background-repeat: repeat-x;
+    background-position: right bottom;
+}
+
+.assign-1-shape-4 {
+    background-repeat: repeat;
+}
